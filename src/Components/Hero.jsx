@@ -1,7 +1,7 @@
 import React from 'react';
 import heroImage from '../assets/hero-image.png'
 import { motion } from "framer-motion";
-import { fadeIn, textVariant } from "../utils/motion";
+import { fadeIn, textVariant } from "../Utils/motion";
 
 
 
